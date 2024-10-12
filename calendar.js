@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         let info = {
                             title: event.Buque,
                             start: fechaInicio,
-                            end: fechaFin.setDate(fechaFin.getDate() + 1),
+                            end: fechaFin.setDate(fechaFin.getDate() + 1), // devuelve el dia siguiente, para que se visualizen correctamente los eventos del calendario
                             location: agente // LOCATION = AGENTE
                         }
                         return info
