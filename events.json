@@ -1,728 +1,1118 @@
 [
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "22/10/2024 07:00",
-      "Partida": "24/10/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "29/10/2024 08:00",
-      "Partida": "30/10/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "01/11/2024 06:00",
-      "Partida": "01/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "01/11/2024 07:00",
-      "Partida": "03/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "07/11/2024 06:00",
-      "Partida": "07/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "08/11/2024 06:45",
-      "Partida": "08/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "10/11/2024 06:00",
-      "Partida": "10/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "13/11/2024 06:00",
-      "Partida": "13/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "13/11/2024 06:45",
-      "Partida": "13/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "19/11/2024 07:00",
-      "Partida": "19/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "20/11/2024 06:00",
-      "Partida": "20/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "20/11/2024 06:00",
-      "Partida": "20/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "20/11/2024 07:00",
-      "Partida": "21/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "22/11/2024 06:45",
-      "Partida": "22/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "23/11/2024 06:00",
-      "Partida": "23/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "24/11/2024 20:00",
-      "Partida": "25/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "26/11/2024 07:00",
-      "Partida": "26/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "28/11/2024 06:45",
-      "Partida": "28/11/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "30/11/2024 06:00",
-      "Partida": "30/11/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "30/11/2024 07:00",
-      "Partida": "01/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "02/12/2024 19:00",
-      "Partida": "03/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "04/12/2024 19:00",
-      "Partida": "05/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC INSPIRATION",
-      "Llegada": "04/12/2024 20:00",
-      "Partida": "05/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "05/12/2024 06:00",
-      "Partida": "05/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "05/12/2024 07:00",
-      "Partida": "05/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "06/12/2024 06:00",
-      "Partida": "06/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "09/12/2024 06:00",
-      "Partida": "09/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "09/12/2024 06:45",
-      "Partida": "09/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "09/12/2024 07:00",
-      "Partida": "10/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "10/12/2024 06:00",
-      "Partida": "10/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "12/12/2024 19:00",
-      "Partida": "13/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "12/12/2024 20:00",
-      "Partida": "13/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "14/12/2024 19:00",
-      "Partida": "15/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "16/12/2024 07:00",
-      "Partida": "16/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "17/12/2024 06:00",
-      "Partida": "17/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "19/12/2024 07:00",
-      "Partida": "20/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "20/12/2024 06:00",
-      "Partida": "20/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "20/12/2024 06:45",
-      "Partida": "20/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HANSEATIC INSPIRATION",
-      "Llegada": "20/12/2024 20:00",
-      "Partida": "21/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "21/12/2024 19:00",
-      "Partida": "22/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "25/12/2024 06:00",
-      "Partida": "25/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "27/12/2024 19:00",
-      "Partida": "28/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "28/12/2024 07:00",
-      "Partida": "28/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "29/12/2024 06:00",
-      "Partida": "29/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "29/12/2024 06:45",
-      "Partida": "29/12/2024 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "29/12/2024 07:00",
-      "Partida": "30/12/2024 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "03/01/2025 20:00",
-      "Partida": "04/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "04/01/2025 07:00",
-      "Partida": "04/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "05/01/2025 06:00",
-      "Partida": "05/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "06/01/2025 06:00",
-      "Partida": "06/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "06/01/2025 06:45",
-      "Partida": "06/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "07/01/2025 19:00",
-      "Partida": "08/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "07/01/2025 19:00",
-      "Partida": "08/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "09/01/2025 06:45",
-      "Partida": "09/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HANSEATIC INSPIRATION",
-      "Llegada": "09/01/2025 20:00",
-      "Partida": "10/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "10/01/2025 06:00",
-      "Partida": "10/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "15/01/2025 07:00",
-      "Partida": "15/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "16/01/2025 06:00",
-      "Partida": "16/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "16/01/2025 07:00",
-      "Partida": "16/01/2025 19:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "16/01/2025 07:00",
-      "Partida": "17/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "16/01/2025 19:00",
-      "Partida": "17/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "18/01/2025 19:00",
-      "Partida": "19/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "20/01/2025 06:45",
-      "Partida": "20/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "21/01/2025 20:00",
-      "Partida": "22/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "22/01/2025 06:00",
-      "Partida": "22/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "22/01/2025 06:00",
-      "Partida": "22/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "24/01/2025 06:45",
-      "Partida": "24/01/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "25/01/2025 19:00",
-      "Partida": "26/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "26/01/2025 07:00",
-      "Partida": "27/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC INSPIRATION",
-      "Llegada": "27/01/2025 20:00",
-      "Partida": "28/01/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PACIFIC WORLD",
-      "Llegada": "31/01/2025 07:00",
-      "Partida": "31/01/2025 21:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "01/02/2025 06:00",
-      "Partida": "01/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "01/02/2025 06:00",
-      "Partida": "01/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "MSC MAGNIFICA",
-      "Llegada": "03/02/2025 06:00",
-      "Partida": "04/02/2025 16:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "03/02/2025 06:00",
-      "Partida": "03/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "03/02/2025 07:00",
-      "Partida": "03/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "03/02/2025 19:00",
-      "Partida": "04/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "04/02/2025 06:45",
-      "Partida": "04/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "04/02/2025 19:00",
-      "Partida": "05/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "07/02/2025 07:00",
-      "Partida": "08/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "08/02/2025 20:00",
-      "Partida": "09/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "11/02/2025 06:00",
-      "Partida": "11/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "11/02/2025 06:45",
-      "Partida": "11/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "12/02/2025 19:00",
-      "Partida": "13/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "13/02/2025 06:00",
-      "Partida": "13/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "13/02/2025 06:45",
-      "Partida": "13/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "14/02/2025 07:00",
-      "Partida": "14/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "14/02/2025 19:00",
-      "Partida": "15/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "17/02/2025 07:00",
-      "Partida": "18/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "QUEEN VICTORIA",
-      "Llegada": "17/02/2025 08:00",
-      "Partida": "17/02/2025 17:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "20/02/2025 06:00",
-      "Partida": "20/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "21/02/2025 19:00",
-      "Partida": "22/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "22/02/2025 06:45",
-      "Partida": "22/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "22/02/2025 06:45",
-      "Partida": "22/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "25/02/2025 06:00",
-      "Partida": "25/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "25/02/2025 06:45",
-      "Partida": "25/02/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "25/02/2025 19:00",
-      "Partida": "26/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "27/02/2025 18:00",
-      "Partida": "28/02/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HANSEATIC NATURE",
-      "Llegada": "28/02/2025 20:00",
-      "Partida": "01/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "02/03/2025 19:00",
-      "Partida": "03/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "05/03/2025 06:45",
-      "Partida": "05/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "05/03/2025 07:00",
-      "Partida": "05/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH DIANA",
-      "Llegada": "06/03/2025 19:00",
-      "Partida": "07/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "09/03/2025 06:00",
-      "Partida": "09/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "10/03/2025 06:00",
-      "Partida": "10/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "11/03/2025 07:00",
-      "Partida": "13/03/2025 15:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "11/03/2025 07:00",
-      "Partida": "11/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SH VEGA",
-      "Llegada": "12/03/2025 19:00",
-      "Partida": "14/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "14/03/2025 06:00",
-      "Partida": "14/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "14/03/2025 06:45",
-      "Partida": "14/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "14/03/2025 06:45",
-      "Partida": "14/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "SEAVENTURE",
-      "Llegada": "17/03/2025 18:00",
-      "Partida": "18/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "21/03/2025 06:00",
-      "Partida": "21/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "22/03/2025 07:00",
-      "Partida": "22/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "23/03/2025 06:00",
-      "Partida": "23/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "HONDIUS",
-      "Llegada": "23/03/2025 06:00",
-      "Partida": "23/03/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "WORLD TRAVELLER",
-      "Llegada": "25/03/2025 06:45",
-      "Partida": "25/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD NAVIGATOR",
-      "Llegada": "27/03/2025 06:45",
-      "Partida": "27/03/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "WORLD VOYAGER",
-      "Llegada": "02/04/2025 07:00",
-      "Partida": "02/04/2025 18:00",
-      "Agente": "CRUISING USHUAIA SA"
-  },
-  {
-      "Buque": "PLANCIUS",
-      "Llegada": "03/04/2025 06:00",
-      "Partida": "03/04/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  },
-  {
-      "Buque": "ORTELIUS",
-      "Llegada": "05/04/2025 06:00",
-      "Partida": "05/04/2025 18:00",
-      "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
-  }
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "22/10/2024 07:00",
+        "Partida": "24/10/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "29/10/2024 07:00",
+        "Partida": "29/10/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "29/10/2024 08:00",
+        "Partida": "30/10/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "01/11/2024 06:00",
+        "Partida": "01/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "01/11/2024 07:00",
+        "Partida": "03/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "07/11/2024 06:00",
+        "Partida": "07/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "08/11/2024 06:45",
+        "Partida": "08/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "09/11/2024 07:00",
+        "Partida": "09/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "10/11/2024 06:00",
+        "Partida": "10/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "10/11/2024 19:00",
+        "Partida": "11/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "11/11/2024 19:00",
+        "Partida": "12/11/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "13/11/2024 06:00",
+        "Partida": "13/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "13/11/2024 06:45",
+        "Partida": "13/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "MAGELLAN EXPLORER",
+        "Llegada": "13/11/2024 07:00",
+        "Partida": "14/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "18/11/2024 06:00",
+        "Partida": "18/11/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SILVER CLOUD",
+        "Llegada": "18/11/2024 07:00",
+        "Partida": "18/11/2024 23:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "19/11/2024 07:00",
+        "Partida": "19/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "AIDASOL",
+        "Llegada": "19/11/2024 07:00",
+        "Partida": "20/11/2024 02:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "20/11/2024 06:00",
+        "Partida": "20/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "20/11/2024 06:00",
+        "Partida": "20/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "20/11/2024 07:00",
+        "Partida": "21/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "20/11/2024 07:00",
+        "Partida": "20/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "22/11/2024 06:45",
+        "Partida": "22/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "22/11/2024 19:00",
+        "Partida": "23/11/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "23/11/2024 06:00",
+        "Partida": "23/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "MAGELLAN EXPLORER",
+        "Llegada": "23/11/2024 07:00",
+        "Partida": "23/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "24/11/2024 20:00",
+        "Partida": "25/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "26/11/2024 07:00",
+        "Partida": "26/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "28/11/2024 06:45",
+        "Partida": "28/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SILVER WIND",
+        "Llegada": "28/11/2024 08:00",
+        "Partida": "28/11/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "29/11/2024 07:00",
+        "Partida": "29/11/2024 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "30/11/2024 06:00",
+        "Partida": "30/11/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "30/11/2024 07:00",
+        "Partida": "01/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "01/12/2024 19:00",
+        "Partida": "02/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "02/12/2024 19:00",
+        "Partida": "03/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "04/12/2024 19:00",
+        "Partida": "05/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HANSEATIC INSPIRATION",
+        "Llegada": "04/12/2024 20:00",
+        "Partida": "05/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "05/12/2024 06:00",
+        "Partida": "05/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "05/12/2024 07:00",
+        "Partida": "05/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "06/12/2024 06:00",
+        "Partida": "06/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "07/12/2024 06:00",
+        "Partida": "07/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "09/12/2024 06:00",
+        "Partida": "09/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "09/12/2024 06:45",
+        "Partida": "09/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "09/12/2024 07:00",
+        "Partida": "10/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "10/12/2024 06:00",
+        "Partida": "10/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "12/12/2024 19:00",
+        "Partida": "13/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "12/12/2024 19:00",
+        "Partida": "13/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "12/12/2024 20:00",
+        "Partida": "13/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "14/12/2024 19:00",
+        "Partida": "15/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "16/12/2024 07:00",
+        "Partida": "16/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "17/12/2024 06:00",
+        "Partida": "17/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "17/12/2024 06:00",
+        "Partida": "17/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "19/12/2024 07:00",
+        "Partida": "20/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "20/12/2024 06:00",
+        "Partida": "20/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "20/12/2024 06:45",
+        "Partida": "20/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HANSEATIC INSPIRATION",
+        "Llegada": "20/12/2024 20:00",
+        "Partida": "21/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "21/12/2024 19:00",
+        "Partida": "22/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "21/12/2024 19:00",
+        "Partida": "22/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "25/12/2024 06:00",
+        "Partida": "25/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "NORWEGIAN STAR",
+        "Llegada": "26/12/2024 10:00",
+        "Partida": "26/12/2024 21:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "27/12/2024 06:00",
+        "Partida": "27/12/2024 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "27/12/2024 19:00",
+        "Partida": "28/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "28/12/2024 07:00",
+        "Partida": "28/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "29/12/2024 06:00",
+        "Partida": "29/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "29/12/2024 06:45",
+        "Partida": "29/12/2024 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "29/12/2024 07:00",
+        "Partida": "30/12/2024 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "02/01/2025 19:00",
+        "Partida": "03/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "MARINA",
+        "Llegada": "03/01/2025 09:00",
+        "Partida": "03/01/2025 20:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "03/01/2025 18:00",
+        "Partida": "04/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "03/01/2025 20:00",
+        "Partida": "04/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "04/01/2025 07:00",
+        "Partida": "04/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "05/01/2025 06:00",
+        "Partida": "05/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "06/01/2025 06:00",
+        "Partida": "06/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "06/01/2025 06:00",
+        "Partida": "06/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "06/01/2025 06:45",
+        "Partida": "06/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "07/01/2025 19:00",
+        "Partida": "08/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "07/01/2025 19:00",
+        "Partida": "08/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "09/01/2025 06:45",
+        "Partida": "09/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "NORWEGIAN STAR",
+        "Llegada": "09/01/2025 10:00",
+        "Partida": "09/01/2025 21:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HANSEATIC INSPIRATION",
+        "Llegada": "09/01/2025 20:00",
+        "Partida": "10/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "10/01/2025 06:00",
+        "Partida": "10/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "COSTA DELIZIOSA",
+        "Llegada": "10/01/2025 09:00",
+        "Partida": "11/01/2025 14:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "11/01/2025 19:00",
+        "Partida": "12/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "12/01/2025 07:00",
+        "Partida": "14/01/2025 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "13/01/2025 18:00",
+        "Partida": "14/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "15/01/2025 07:00",
+        "Partida": "15/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "16/01/2025 06:00",
+        "Partida": "16/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "16/01/2025 07:00",
+        "Partida": "16/01/2025 19:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "16/01/2025 07:00",
+        "Partida": "17/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "16/01/2025 19:00",
+        "Partida": "17/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "18/01/2025 19:00",
+        "Partida": "19/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "20/01/2025 06:45",
+        "Partida": "20/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "21/01/2025 20:00",
+        "Partida": "22/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "22/01/2025 06:00",
+        "Partida": "22/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "22/01/2025 06:00",
+        "Partida": "22/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "NORWEGIAN STAR",
+        "Llegada": "23/01/2025 10:00",
+        "Partida": "23/01/2025 21:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "24/01/2025 06:45",
+        "Partida": "24/01/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "25/01/2025 06:00",
+        "Partida": "25/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "25/01/2025 19:00",
+        "Partida": "26/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "26/01/2025 07:00",
+        "Partida": "27/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HANSEATIC INSPIRATION",
+        "Llegada": "27/01/2025 20:00",
+        "Partida": "28/01/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ODISSEY",
+        "Llegada": "28/01/2025 07:00",
+        "Partida": "29/01/2025 19:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "ARTANIA",
+        "Llegada": "29/01/2025 08:00",
+        "Partida": "29/01/2025 20:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "29/01/2025 18:00",
+        "Partida": "30/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "30/01/2025 19:00",
+        "Partida": "31/01/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "PACIFIC WORLD",
+        "Llegada": "31/01/2025 07:00",
+        "Partida": "31/01/2025 21:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "01/02/2025 06:00",
+        "Partida": "01/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "01/02/2025 06:00",
+        "Partida": "01/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "VASCO DA GAMA",
+        "Llegada": "02/02/2025 13:00",
+        "Partida": "03/02/2025 15:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "MSC MAGNIFICA",
+        "Llegada": "03/02/2025 06:00",
+        "Partida": "04/02/2025 16:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "03/02/2025 06:00",
+        "Partida": "03/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "03/02/2025 07:00",
+        "Partida": "03/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "03/02/2025 19:00",
+        "Partida": "04/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "04/02/2025 06:45",
+        "Partida": "04/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "04/02/2025 19:00",
+        "Partida": "05/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEVEN SEAS SPLENDOR",
+        "Llegada": "05/02/2025 07:00",
+        "Partida": "05/02/2025 17:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "NORWEGIAN STAR",
+        "Llegada": "06/02/2025 10:00",
+        "Partida": "06/02/2025 21:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "07/02/2025 06:00",
+        "Partida": "07/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "07/02/2025 07:00",
+        "Partida": "08/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "08/02/2025 18:00",
+        "Partida": "09/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "08/02/2025 19:00",
+        "Partida": "09/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "08/02/2025 20:00",
+        "Partida": "09/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEVEN SEAS MARINER",
+        "Llegada": "09/02/2025 07:00",
+        "Partida": "09/02/2025 17:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "MARINA",
+        "Llegada": "09/02/2025 07:00",
+        "Partida": "10/02/2025 16:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "11/02/2025 06:00",
+        "Partida": "11/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "11/02/2025 06:45",
+        "Partida": "11/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "AZAMARA JOURNEY",
+        "Llegada": "11/02/2025 07:30",
+        "Partida": "11/02/2025 22:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "CRYSTAL SERENITY",
+        "Llegada": "11/02/2025 19:00",
+        "Partida": "12/02/2025 22:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "12/02/2025 19:00",
+        "Partida": "13/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "13/02/2025 06:00",
+        "Partida": "13/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "13/02/2025 06:45",
+        "Partida": "13/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "14/02/2025 07:00",
+        "Partida": "14/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "14/02/2025 19:00",
+        "Partida": "15/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SILVER RAY",
+        "Llegada": "15/02/2025 22:00",
+        "Partida": "16/02/2025 17:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "17/02/2025 06:00",
+        "Partida": "17/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "17/02/2025 07:00",
+        "Partida": "18/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "QUEEN VICTORIA",
+        "Llegada": "17/02/2025 08:00",
+        "Partida": "17/02/2025 17:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "MITSUI OCEAN FUJI",
+        "Llegada": "19/02/2025 07:00",
+        "Partida": "19/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "20/02/2025 06:00",
+        "Partida": "20/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SEVEN SEAS SPLENDOR",
+        "Llegada": "20/02/2025 12:00",
+        "Partida": "20/02/2025 20:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "20/02/2025 18:00",
+        "Partida": "21/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "20/02/2025 19:00",
+        "Partida": "21/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "21/02/2025 19:00",
+        "Partida": "22/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "22/02/2025 06:45",
+        "Partida": "22/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "22/02/2025 06:45",
+        "Partida": "22/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "25/02/2025 06:00",
+        "Partida": "25/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "25/02/2025 06:45",
+        "Partida": "25/02/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "25/02/2025 19:00",
+        "Partida": "26/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "AMERA",
+        "Llegada": "26/02/2025 08:00",
+        "Partida": "26/02/2025 20:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEA SPIRIT",
+        "Llegada": "27/02/2025 06:00",
+        "Partida": "27/02/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "27/02/2025 07:00",
+        "Partida": "01/03/2025 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "27/02/2025 18:00",
+        "Partida": "28/02/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "NORWEGIAN STAR",
+        "Llegada": "28/02/2025 08:00",
+        "Partida": "02/03/2025 16:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "HANSEATIC NATURE",
+        "Llegada": "28/02/2025 20:00",
+        "Partida": "01/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "02/03/2025 18:00",
+        "Partida": "03/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "02/03/2025 19:00",
+        "Partida": "03/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "04/03/2025 19:00",
+        "Partida": "05/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "05/03/2025 06:45",
+        "Partida": "05/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "05/03/2025 07:00",
+        "Partida": "05/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH DIANA",
+        "Llegada": "06/03/2025 19:00",
+        "Partida": "07/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "09/03/2025 06:00",
+        "Partida": "09/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "10/03/2025 06:00",
+        "Partida": "10/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "OCEAN NOVA",
+        "Llegada": "10/03/2025 07:00",
+        "Partida": "10/03/2025 12:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "11/03/2025 07:00",
+        "Partida": "13/03/2025 15:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "MAGELLAN EXPLORER",
+        "Llegada": "11/03/2025 07:00",
+        "Partida": "13/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "11/03/2025 07:00",
+        "Partida": "11/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SH VEGA",
+        "Llegada": "12/03/2025 19:00",
+        "Partida": "14/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "EXPEDITION",
+        "Llegada": "13/03/2025 19:00",
+        "Partida": "14/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "14/03/2025 06:00",
+        "Partida": "14/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "14/03/2025 06:45",
+        "Partida": "14/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "14/03/2025 06:45",
+        "Partida": "14/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "EXPLORIS ONE",
+        "Llegada": "14/03/2025 18:00",
+        "Partida": "15/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "MARINA",
+        "Llegada": "15/03/2025 08:00",
+        "Partida": "15/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "SEAVENTURE",
+        "Llegada": "17/03/2025 18:00",
+        "Partida": "18/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "SILVER CLOUD",
+        "Llegada": "19/03/2025 08:00",
+        "Partida": "19/03/2025 21:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "21/03/2025 06:00",
+        "Partida": "21/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "MAGELLAN EXPLORER",
+        "Llegada": "22/03/2025 07:00",
+        "Partida": "22/03/2025 18:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "22/03/2025 07:00",
+        "Partida": "22/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "23/03/2025 06:00",
+        "Partida": "23/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "HONDIUS",
+        "Llegada": "23/03/2025 06:00",
+        "Partida": "23/03/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "WORLD TRAVELLER",
+        "Llegada": "25/03/2025 06:45",
+        "Partida": "25/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "WORLD NAVIGATOR",
+        "Llegada": "27/03/2025 06:45",
+        "Partida": "27/03/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "MAGELLAN EXPLORER",
+        "Llegada": "31/03/2025 07:00",
+        "Partida": "31/03/2025 17:00",
+        "Agente": "ADAMANTO S.R.L"
+    },
+    {
+        "Buque": "WORLD VOYAGER",
+        "Llegada": "02/04/2025 07:00",
+        "Partida": "02/04/2025 18:00",
+        "Agente": "CRUISING USHUAIA SA"
+    },
+    {
+        "Buque": "PLANCIUS",
+        "Llegada": "03/04/2025 06:00",
+        "Partida": "03/04/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    },
+    {
+        "Buque": "ORTELIUS",
+        "Llegada": "05/04/2025 06:00",
+        "Partida": "05/04/2025 18:00",
+        "Agente": "AGENCIA MARITIMA INTERNACIONAL  SA"
+    }
 ]
