@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(function(data){
                     console.log(data)
                     let events = data.map(function(event){
+
                         let llegada = event.Llegada 
                         let partida = event.Partida
                         let agente;
@@ -25,12 +26,15 @@ document.addEventListener('DOMContentLoaded', function() {
                             agente = "SEALAND"
                         }
 
-                        return {
+                        let fechaInicio = new Date(parseInt( llegada.substring(6,10) ), parseInt( llegada.substring(3,5) )- 1 , parseInt( llegada.substring(0,2) ) )
+                        let fechaFin = new Date(parseInt( partida.substring(6,10) ), parseInt( partida.substring(3,5) )- 1 , parseInt( partida.substring(0,2) ) )
+                        let info = {
                             title: event.Buque,
-                            start: new Date(llegada.substring(6,10),llegada.substring(3,5) - 1,llegada.substring(0,2)),
-                            end: new Date(partida.substring(6,10),partida.substring(3,5) - 1,partida.substring(0,2)),
+                            start: fechaInicio,
+                            end: fechaFin.setDate(fechaFin.getDate() + 1),
                             location: agente // LOCATION = AGENTE
                         }
+                        return info
                     })
                     successCallback(events)
                 })
@@ -40,7 +44,6 @@ document.addEventListener('DOMContentLoaded', function() {
         },
 
         eventContent: function(info){
-            console.log(info)
             return {
                 html: `
                 <div style="border: 1px solid">
