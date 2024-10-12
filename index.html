@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js'></script>
+    <script>
+
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+          initialView: 'dayGridMonth',
+          height: '100%'
+        });
+        calendar.render();
+      });
+
+    </script>
+    <title>FullCalendar Tutorial</title>
+
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+        width: 100vw;
+        height: 100vh;
+      }
+      @media only screen and (max-width: 480px) {
+        body {
+            font-size: 12px;
+        }
+      }
+    </style>
+</head>
+<body>
+    
+    <div style="max-width: 100vw; max-height: 100vh;text-align: center;" id='calendar'></div>
+    <script src="./calendar.js"></script>
+</body>
+</html>
